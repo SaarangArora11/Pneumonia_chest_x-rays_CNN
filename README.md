@@ -1,4 +1,4 @@
-#Pneumonia Detection from Chest X-Rays
+# Pneumonia Detection from Chest X-Rays
 
 A Convolutional Neural Network (CNN) designed to classify chest X-ray images as either "Normal" or "Pneumonia-infected".
 
